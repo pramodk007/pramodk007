@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramod kumar
 - 👀 I’m interested in developing Android Apps.
-- 🌱 I’m currently learning java and kotlin.
+- 🌱 I’m currently working on java and kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
